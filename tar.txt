@@ -1,0 +1,1 @@
+mvn clean package -Pprod assembly:assembly -f pom.xml
